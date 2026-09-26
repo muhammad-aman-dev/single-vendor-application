@@ -163,7 +163,3 @@ cd backend && npm start
 ```
 
 Set `NODE_ENV=production` on the API. `NEXT_PUBLIC_*` values must be available at frontend **build** time. This repo has no Docker or host-specific deploy config.
-
-## License
-
-Backend package license: ISC. Frontend package is private.
